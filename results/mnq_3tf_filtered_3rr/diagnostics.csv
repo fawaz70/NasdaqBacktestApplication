@@ -1,0 +1,4 @@
+scenario_rr,reference_fvg_touches,htf_fvgs_created,entries,discontinuities,below_risk_band_entries,over_max_risk_skips,rollovers
+1.0,32161,6569,346,282,109,4,3
+1.5,32161,6569,337,282,105,4,3
+2.0,32161,6569,333,282,103,4,3

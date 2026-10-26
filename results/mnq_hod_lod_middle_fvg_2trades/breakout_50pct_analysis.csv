@@ -1,0 +1,13 @@
+rr,session,reached_50pct_breakout,trades,wins,net_usd,win_rate_pct
+1.0,ASIA,False,12,6,-46.0,50.0
+1.0,ASIA,True,188,92,-2799.5,48.94
+1.0,NY,False,12,6,-71.0,50.0
+1.0,NY,True,125,65,241.0,52.0
+1.5,ASIA,False,12,4,-365.75,33.33
+1.5,ASIA,True,173,67,-2687.75,38.73
+1.5,NY,False,10,5,525.0,50.0
+1.5,NY,True,115,50,1037.75,43.48
+2.0,ASIA,False,12,4,-14.0,33.33
+2.0,ASIA,True,165,56,-1047.5,33.94
+2.0,NY,False,8,1,-828.5,12.5
+2.0,NY,True,110,41,1393.5,37.27

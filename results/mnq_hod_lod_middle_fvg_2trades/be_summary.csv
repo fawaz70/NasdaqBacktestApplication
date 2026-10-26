@@ -1,0 +1,5 @@
+rr,session,trades,original_pnl,be_pnl,be_triggered,be_exits,be_saved_losses,be_cut_winners,pnl_change
+1.5,ASIA,185,-3053.5,-2947.0,85,28,17,11,106.5
+1.5,NY,125,1562.75,272.0,59,19,8,11,-1290.75
+2.0,ASIA,177,-1061.5,-3084.5,84,41,24,17,-2023.0
+2.0,NY,118,565.0,-338.5,57,26,15,11,-903.5
